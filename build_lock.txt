@@ -4,8 +4,9 @@ MESSAGE= This playtest is now over.
 DISCORD=https://www.redlygames.com
 YOUTUBE=https://www.redlygames.com
 LOCKED=
-DATE=2024-11-07T13:30:00Z
+DATE=2025-11-07T13:30:00Z
 VERSION=1.0.0.0
+
 
 
 
