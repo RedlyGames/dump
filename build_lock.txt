@@ -3,7 +3,8 @@ TITLE=THANK YOU !
 MESSAGE= This playtest is now over.
 LOCKED=
 DATE=2025-11-07T13:30:00Z
-VERSION=1.0.0.0
+VERSION=0.1.0.0
+
 
 
 
